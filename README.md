@@ -1,7 +1,8 @@
 ### Hi there 👋
-
-src = "hello-world.gif" width="400" height="300"
-
+<div align="center">
+<img src="hello-world.gif" align="center" height="325" />
+<img src="hello-world.gif" align="center" height="325" />
+</div>  
 
 <!--
 **estebansg1/estebansg1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
