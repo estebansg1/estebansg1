@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](hello-world.gif width="400" height="300")
+<src = "hello-world.gif" width="400" height="300">
 
 
 <!--
