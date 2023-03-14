@@ -4,7 +4,7 @@
 </div>  
 
 <!--
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Your_GitHub_Username&show_icons=true)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?estebansg1=Your_GitHub_Username&show_icons=true)
 **estebansg1/estebansg1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
