@@ -1,6 +1,5 @@
-### Hi there 👋 
 <div align="center">
-<img src="hello-world.gif" align="center" height="450" />
+  ### Hi there 👋 
 </div>  
 
 <!--
